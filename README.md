@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Fall 2024 - Computer& Electrical Engineering <br>🌟 Interested in: <br>      - Embedded Systems<br>      - IoT integration<br>      - Neural Networks & Machine Learning<br>🌱 Projects-Based GitHub portfolio<br><br>
+🎓 Fall 2024 - Computer & Electrical Engineering <br>🌟 Interested in: <br>      - Embedded Systems<br>      - IoT integration<br>      - Neural Networks & Machine Learning<br>🌱 Projects-Based GitHub portfolio<br><br>
 
 
 ## 🌐 Socials:
