@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Fall 2024 - Computer & Electrical Engineering <br>🌟 Interested in: <br>      - Embedded Systems<br>      - IoT integration<br>      - Neural Networks & Machine Learning<br>🌱 Projects-Based GitHub portfolio<br><br>
-<img align="right" width="100" height="100" iframe src="https://giphy.com/embed/xUA7aOIFDR4ZgqLy8w" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img align="right" width="100" height="100" src="[https://i.pinimg.com/originals/9e/97/9f/9e979ff9c039546037593d4517bad9e7.jpg]">
 
 ## 🌐 Socials:
 👈 on the left!
