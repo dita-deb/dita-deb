@@ -11,14 +11,22 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true) <br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![Snake animation](https://github.com/dita-deb/dita-deb/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true) <br> 
+
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+  <picture>
+    <!-- Source for dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dita-deb/dita-deb/output/github-contribution-grid-snake-dark.svg">
+    <!-- Fallback image -->
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/dita-deb/dita-deb/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
+  </picture>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dita-deb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dita-deb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=dita-deb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dita-deb&icon=0&color=1)](https://visitcount.itsvg.in)
