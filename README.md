@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true) <br> 
 
+# 🐍 Snake game: 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <picture>
     <!-- Source for dark mode -->
