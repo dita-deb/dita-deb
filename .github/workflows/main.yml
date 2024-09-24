@@ -24,6 +24,13 @@ jobs:
           github_user_name: dita-deb  # Your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Optional: Save state or set output if needed (example only)
+      - name: Save state (if needed)
+        run: echo "example_name=example_value" >> $GITHUB_STATE
+
+      - name: Set output (if needed)
+        run: echo "example_output_name=example_output_value" >> $GITHUB_OUTPUT
+
       # GitHub Pages Action to publish the Snake SVG
       - uses: crazy-max/ghaction-github-pages@v4.0.0  # Update to the latest version
         with:
