@@ -1,8 +1,8 @@
 name: Generate Datas
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "* */12 * * *"  # Schedule to run every 12 hours
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   build:
@@ -10,23 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Allow pushing to the repository
+      contents: write  # Allows pushing to the repository
 
     steps:
-      # Step to clear cache
+      # Clear cache
       - name: Clear cache
         run: rm -rf dist/*
 
-      # Snake Animation
+      # Generate Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-
         with:
           github_user_name: dita-deb  # Your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # GitHub Pages Action to publish the Snake SVG
-      - uses: crazy-max/ghaction-github-pages@v3.0.0  # Use the latest version for node16/node20 compatibility
+      # Publish Snake SVG to GitHub Pages
+      - uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
           target_branch: output
           build_dir: dist
