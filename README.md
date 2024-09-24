@@ -11,13 +11,10 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true) <br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![Snake animation](https://github.com/dita-deb/dita-deb/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dita-deb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-## Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![Snake animation](https://github.com/dita-deb/dita-deb/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🔝 Top Contributed Repo
