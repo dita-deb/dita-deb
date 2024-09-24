@@ -18,14 +18,14 @@ jobs:
         run: rm -rf dist/*
 
       # Generate Snake Animation
-      - uses: dita-deb/snk@main  # Reference your forked action here
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: dita-deb  # Your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # GitHub Pages Action to publish the Snake SVG
-      - uses: crazy-max/ghaction-github-pages@v4.0.0  # Ensure this is updated
+      - uses: crazy-max/ghaction-github-pages@v4.0.0  # Update to the latest version
         with:
           target_branch: output
           build_dir: dist
