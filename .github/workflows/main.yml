@@ -24,8 +24,8 @@ jobs:
           github_user_name: dita-deb  # Your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Publish Snake SVG to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v3.0.0
+      # GitHub Pages Action to publish the Snake SVG
+      - uses: crazy-max/ghaction-github-pages@v4.0.0  # Update to the latest version
         with:
           target_branch: output
           build_dir: dist
