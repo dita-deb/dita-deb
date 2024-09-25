@@ -14,10 +14,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dita-deb&theme=tokyonight&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=dita-deb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=normal" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&include_all_commits=false&count_private=false&layout=normal" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -47,7 +47,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dita-deb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=0)
+![](https://github-profile-trophy.vercel.app/?username=dita-deb&theme=tokyonight&no-bg=false&margin-w=0)
 
 
 ---
