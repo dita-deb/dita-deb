@@ -11,7 +11,17 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true) 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dita-deb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <picture>
@@ -23,12 +33,21 @@
 </div>
 
 ## 🔝 Top Contributed Repository and Languages
-![](https://github-contributor-stats.vercel.app/api?username=dita-deb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=normal) <br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=dita-deb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dita-deb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=normal" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dita-deb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dita-deb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=0)
 
 
 ---
