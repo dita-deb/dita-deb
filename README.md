@@ -48,7 +48,6 @@
   </tr>
 </table>
 
-
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <picture>
     <!-- Source for dark mode -->
