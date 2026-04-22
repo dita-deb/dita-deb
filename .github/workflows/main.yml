@@ -39,12 +39,14 @@
 #         env:
 #           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Ensure token has correct permissions
 
+
+
 name: Generate Animation
 
 on:
   # Automatically run every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 * * * *" 
   
   # Allows manual running of the job at any time
   workflow_dispatch:
@@ -79,3 +81,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Ensure token has correct permissions
+
+
+
+
