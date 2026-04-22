@@ -5,6 +5,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="230" height="230"> <br>
 
 🎓 Fall 2024 - Computer & Electrical Engineering <br>🌟 Interested in: <br>      - Embedded Systems<br>      - IoT integration<br>      - Neural Networks & Machine Learning<br>🌱 Projects-Based GitHub portfolio<br><br>
+
   
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +35,9 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-
+# Last 5 Books I've Read 📚 
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 # 📊 GitHub Stats:
 <table>
